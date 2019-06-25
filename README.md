@@ -12,9 +12,10 @@
 
 #<strong>CHATAPP</strong>:- <a href="https://shivam-chat-application.herokuapp.com/" target="_blank">Link to the Chat-App</a>
 
-<br>
 <hr>
-Sharing some snips:- 
+<strong>Sharing some snips:- </strong>
+<hr>
+
 <img src="https://raw.githubusercontent.com/shivamkansal/Chat-App/master/home%20page.JPG">
 <img src="https://raw.githubusercontent.com/shivamkansal/Chat-App/master/test%20img.JPG">
 <br>
