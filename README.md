@@ -1,5 +1,4 @@
 # <strong>Chat-App</strong>
-
 <hr>
 1) This is a chat-app where you can <strong>interact via chat</strong> with others(using socket.io)..
 <br>
@@ -10,9 +9,12 @@
 4) Hope you find this useful!
 <br>
 <hr>
-#For more try:- <a href="https://shivam-chat-application.herokuapp.com/">Link to the Chat-App</a>
+
+#<strong>CHATAPP</strong>:- <a href="https://shivam-chat-application.herokuapp.com/" target="_blank">Link to the Chat-App</a>
+
 <br>
-<br>
+<hr>
 Sharing some snips:- 
 <img src="https://raw.githubusercontent.com/shivamkansal/Chat-App/master/home%20page.JPG">
 <img src="https://raw.githubusercontent.com/shivamkansal/Chat-App/master/test%20img.JPG">
+<br>
